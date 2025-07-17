@@ -28,8 +28,8 @@ Ce script est à but **éducatif uniquement**. N’utilisez **jamais** ce scanne
 
 ```bash
 # Clone du projet
-git clone https://github.com/votre-utilisateur/port_scanner.git
-cd port_scanner
+git clone https://github.com/hadydieye/Port_scanner.git
+cd Port_scanner
 
 # Création d'un environnement virtuel (recommandé sur Ubuntu/Debian)
 python3 -m venv venv
